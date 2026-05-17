@@ -1,0 +1,15 @@
+【Final Project Summary】
+
+Formal behavior variable: CurrentCigaretteUse (Grouped by WhatIsYourSex)
+Benchmark difference (H0: Male - Female): 0.00
+Estimated difference: 0.0443
+95% CI: (0.0309, 0.0577)
+z-statistic: 6.3621
+p-value: < 0.0001
+Decision at 5%: reject H0
+
+Exploratory EDA summary
+- Across the dataset, male students generally show a higher current cigarette use proportion (21.88%) than female students (17.46%).
+- The male-minus-female gap is positive (approx. 4.43%), indicating a clear gender divergence in smoking behaviors.
+- The 100% stacked bar chart visually confirms that the composition of smoking status differs by gender.
+- These exploratory findings are descriptive, but the formal two-proportion z-test strongly confirms the statistical significance of this difference.
