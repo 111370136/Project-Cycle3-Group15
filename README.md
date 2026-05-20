@@ -12,3 +12,5 @@ students?
 ## Variables:
 - Group variable: WhatIsYourSex
 - Response variable: CurrentCigaretteUse
+## Final conclusion
+- After analysis, among the adolescent population surveyed in the YRBS 2007, there is indeed a difference in the proportion of current smokers between genders, with male students being significantly more likely to be current smokers than female students.
