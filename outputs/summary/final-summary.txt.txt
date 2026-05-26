@@ -13,3 +13,18 @@ Exploratory EDA summary
 - The male-minus-female gap is positive (approx. 4.43%), indicating a clear gender divergence in smoking behaviors.
 - The 100% stacked bar chart visually confirms that the composition of smoking status differs by gender.
 - These exploratory findings are descriptive, but the formal two-proportion z-test strongly confirms the statistical significance of this difference.
+
+Extended question
+[Test 1: Sex Difference in Alcohol Prevalence Among Smokers]
+Prevalence Rates: Male Smokers: 88.3% | Female Smokers: 86.3%
+Z-statistic: 1.4493
+p-value: 0.1473Conclusion: p>0.05
+There is no statistically significant difference in alcohol prevalence between male and female smokers. 
+The observed minor difference is likely due to random sampling error.
+
+[Test 2: Sex Difference in Marijuana Prevalence Among Smokers]
+Prevalence Rates: Male Smokers: 63.2% | Female Smokers: 53.8%
+Z-statistic: 4.5063
+p-value: 6.5963*10^-6 (or 0.0000066)Conclusion: p<0.05
+There is a highly statistically significant difference in marijuana prevalence between male and female smokers.
+Male students who smoke exhibit a significantly higher rate of marijuana involvement compared to female students who smoke.
