@@ -1,4 +1,6 @@
 # Project-Cycle3
+## Video link
+- https://youtu.be/76SYWb5QLOE
 ## Group Information
 - Group number: 15
 - Member names: 111370136 詹濬誌, 113370220 游子涵
@@ -29,3 +31,4 @@
 ## Final conclusion
 - **Core Question:** Among the adolescent population surveyed in the YRBS 2007, there is a statistically significant difference in current smoking proportions between genders, with male students being significantly more likely to be current smokers than female students.
 - **Extension Question:** The extension analysis strongly supports the behavioral clustering hypothesis. Smokers show a dramatically higher conditional prevalence of concurrent alcohol use (~86-88%) and marijuana use (~53-63%) compared to non-smokers. Furthermore, while male and female smokers show no significant difference in alcohol co-use, male smokers exhibit a significantly higher rate of marijuana involvement than female smokers.
+
